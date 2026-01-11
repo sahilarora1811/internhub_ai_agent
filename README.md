@@ -24,4 +24,9 @@ The project focuses on **AI reasoning and prompt-based logic**, not UI or comple
 
 ---
 
-## Project Structure
+## My Details
+- SAHIL ARORA
+- E22CSEU0102
+- BENNETT UNIVERSITY
+- 2026
+- AI INTERN
